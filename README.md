@@ -9,7 +9,7 @@ Cek Ongkos Kirim Dengan RajaOngkir PHP 7
 
 ## Clone dari GitHub:
     - Dari Document_Root Web Server Clone menggunakan perintah berikut:
-    - git clone https://github.com/blogcacanid/slim3-rest-api-jwt.git
+    - git clone https://github.com/blogcacanid/php7-rajaongkir.git
 
 # Testing
 Edit <b>KEY</b> dengan <i>Key</i> yang didapat dari RajaOngkir pada file <b>cek_ongkir.php</b> dan <b>get_kota.php</b>
